@@ -1,0 +1,4 @@
+order_id[int], stock[string], price[float], size[int], executed[bool]
+1, "VOD.L", 99.96, 100, true
+2, "AAPL.O", 168.12, 1200, false
+3, "MSFT.O", 96.3, 50, false
